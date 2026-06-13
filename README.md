@@ -145,3 +145,8 @@ https://dhruvgajera-39.github.io/synent-task2-landingpage-dhruvgajera/
 ## Internship Information
 
 This project was completed as part of the Synent Technologies Web Development Internship Program to demonstrate practical front-end web development skills and responsive website design using HTML and CSS.
+
+## Demo Video
+
+YouTube:
+[https://youtube.com/your-video-link](https://youtu.be/65QLod755uI)
